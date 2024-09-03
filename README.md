@@ -1,6 +1,5 @@
 # Cleo-Analysis
 This is the Jupyter Notebooks + Outputs used to analyse the data collected about the MSE user "Cleo"
-![Alt text](programmerhumor-io-programming-memes-45907679ef45313.webp "a title")
 
 ## FUNCTIONS
 get_OPdata(username, type): returns all questions and answers ('Q' and 'A') made by username
