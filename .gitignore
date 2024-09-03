@@ -1,4 +1,8 @@
+# Ignore backup directory
 BACKUP - Cleo Analysis/
-README.md
+
+# Ignore macOS system file
 .DS_Store
-User Analysis/.ipynb_checkpoints/
+
+# Ignore Jupyter Notebook checkpoints in any directory
+.ipynb_checkpoints/
